@@ -41,6 +41,6 @@ SAREN은 삼성물산(SSF)사이트를 벤치 마킹하여 여러 브랜드의 �
 ## ERD
 ![결과보고서_4조(Saren) (1)](https://github.com/user-attachments/assets/62a802b0-7977-43e4-a2c6-c85a4747fdd2)
 
-## 시연 영상
+## 시연 영상 파일 첨부
 - 회원/판매자/관리자 모드 포함
 
